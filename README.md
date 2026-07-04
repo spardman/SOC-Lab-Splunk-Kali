@@ -23,4 +23,4 @@ To deploy a self-contained SIEM (Splunk Enterprise) environment on a Kali Linux 
 *   SIEM Configuration & Data Onboarding
 *   Security Log Analysis & Threat Hunting
 *   Data Visualization & Reporting
-# SOC-Lab-Splunk-Kali
+
